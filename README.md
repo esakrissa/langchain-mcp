@@ -1,6 +1,6 @@
-# LangChain MCP Agent
+# LangChain Agent with MCP Servers
 
-A LangChain agent that uses MCP (Model Context Protocol) servers for various capabilities.
+A LangChain agent using MCP Adapters for tool integration with Model Context Protocol (MCP) servers.
 
 ## Overview
 
